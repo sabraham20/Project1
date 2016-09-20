@@ -1,0 +1,147 @@
+html, body, div, span, applet, object, iframe,
+ h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+}
+header {
+  margin: 0 auto;
+  height: 100px;
+  background-color: #ffffff;
+  border-bottom: 1px #d6d6d6 solid;
+}
+header img  {
+  margin-top: 40px;
+  margin-left: 420px;
+}
+
+nav ul {
+  margin-top: 45px;
+}
+nav ul a {
+
+  display: block;
+  margin: 0 auto;
+}
+ul {
+  float: right;
+}
+
+ul li {
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+ul li a {
+  text-decoration: none;
+  font-family: calibri, sans-serif;
+  font-size: 18px;
+  color: #868686
+}
+.socialmedia {
+  padding: 10px;
+  background: rgb(2,205,112,0.5);
+}
+
+.imghead img {
+  background-size: cover;
+}
+.heroimage {
+border-bottom: 1px #d6d6d6 solid;
+height: 450px;
+margin: 0 auto;
+background: rgba(43,43,43,1);
+  }
+.author_p {
+  line-height: 1.6rem;
+  font-size: 18px;
+}
+.info_p {
+  line-height: 1.6rem;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+.author_contribute
+{
+  margin-top: 40px;
+}
+.h1_shadow {
+  text-shadow: 2px 2px 1px rgba(150, 150, 150, 1);
+  font-size:  4rem;
+  background: rgba(255,0,0,0.5);
+  padding-bottom: 5px;
+}
+
+.h1_shadow_2 {
+  text-shadow: 2px 2px 1px rgba(150, 150, 150, 1);
+  font-size:  4rem;
+  padding-bottom: 5px;
+  padding-top: 20px;
+}
+.interesting_fact {
+  height: 260px;
+  background: rgb(241, 241, 241);
+}
+.int_fact {
+  line-height: 1.6rem;
+  font-size: 18px;
+  margin-top: 40px;
+}
+footer
+{
+background: black;
+}
+#page_footer {
+  height: 50px
+}
+#page_footer  ul{
+  margin-top: 15px;
+  margin-right: 540px;
+}
+
+blockquote {
+
+line-height: 1.6rem;
+font-size: 18px;
+font-style: italic;
+
+}
+blockquote p {
+line-height: 1.6rem;
+font-size: 18px;
+
+}
